@@ -2,8 +2,7 @@
 Tab Mount is a minimal, portable tablet stand designed to provide convenient, hands-free use.
 
 ## What is this?
-Tab Mount is a compact, minimal, and sleek tablet stand to mount yor tablet for a very convenient and hands free use. It rotates in 2 axes while the 3rd axis being the base rotation itself. Height adjustable for variety of tablets gives comfort and organizes your desk, especially paired with my other Organizer projects. Designed from scratch in Onshape, this stand is very easy to build.
-Moreover, this also shares colors to my other Organizer projects.
+Tab Mount is a compact, minimal, and sleek tablet stand to mount your tablet for very convenient, hands-free use. It rotates on 3 axes, with the 3rd axis being the base rotation itself. Height adjustable for a variety of tablets gives comfort and organizes your desk, especially paired with my other Organizer projects. Designed from scratch in Onshape, this stand is very easy to build. Moreover, this also shares colors with my other Organizer projects.
 
 <img src="Assets/Screenshot-2026-10-17-011517.png" alt="image 1 of tab mount" width="400">
 
@@ -29,7 +28,7 @@ Click [here](https://cad.onshape.com/documents/0599d35e668904b326db6ffd/w/52e933
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
-4. That's it! Wait for it to arrive, mount your tab and draw something crazy!
+4. That's it! Wait for it to arrive, mount your tab, and draw something crazy!
 
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
