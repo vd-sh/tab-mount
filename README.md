@@ -11,16 +11,11 @@ Tab Mount is a compact, minimal, and sleek tablet stand to mount your tablet for
 ## Repository Structure
 ```text
 tab-mount/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md --> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
@@ -30,7 +25,14 @@ Click [here](https://cad.onshape.com/documents/0599d35e668904b326db6ffd/w/52e933
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
-4. That's it! Wait for it to arrive, mount your tab, and draw something crazy!
+4. That's it! Wait for it to arrive!
+5. You will need superglue to assemble this stand
+6. Use the stem to lock the supports with the main base
+7. Use superglue to lock the stem in place
+8. Similarly, use the another stem to lock the support with the holder
+9. Now, use superglue to lock this stem in place too
+10. Lastly, stick the trio stems across the two supports to add strength to the support arms
+11. That's it! Mount your tablet!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description  | Quantity | Price (USD) | Link                             |
