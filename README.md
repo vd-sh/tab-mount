@@ -2,7 +2,7 @@
 Tab Mount is a minimal, portable tablet stand designed to provide convenient, hands-free use.
 
 ## What is this?
-Tab Mount is a compact, minimal, and sleek tablet stand to mount your tablet for very convenient, hands-free use. It rotates on 3 axes, with the 3rd axis being the base rotation itself. Height adjustable for a variety of tablets gives comfort and organizes your desk, especially paired with my other Organizer projects. Designed from scratch in Onshape, this stand is very easy to build. Moreover, this also shares colors with my other Organizer projects.
+Tab Mount is a compact, minimal, and sleek tablet stand to mount your tablet for very convenient, hands-free use. It rotates on 3 axes, with the 3rd axis being the base rotation itself. Height-adjustable for a variety of tablets, it provides comfort and organizes your desk, especially paired with my other Organizer projects. Designed from scratch in Onshape, this stand is very easy to build. Moreover, this also shares colors with my other Organizer projects.
 
 <img src="Assets/Screenshot-2026-10-17-011517.png" alt="image 1 of tab mount" width="400">
 
@@ -27,9 +27,9 @@ Click [here](https://cad.onshape.com/documents/0599d35e668904b326db6ffd/w/52e933
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive!
 5. You will need superglue to assemble this stand
-6. Use the stem to lock the supports with the main base
+6. Use the stem to lock the supports to the main base
 7. Use superglue to lock the stem in place
-8. Similarly, use the another stem to lock the support with the holder
+8. Similarly, use another stem to lock the support with the holder
 9. Now, use superglue to lock this stem in place too
 10. Lastly, stick the trio stems across the two supports to add strength to the support arms
 11. That's it! Mount your tablet!
